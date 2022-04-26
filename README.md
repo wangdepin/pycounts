@@ -1,6 +1,6 @@
 # pycounts
 
-Calculate word counts in tea
+Calculate word counts in a text file
 
 ## Installation
 
